@@ -270,29 +270,42 @@ Employee360/
 >
 > ## Screenshots
 
-### Login Page
-
-The Login page provides users with authentication access to the Employee360 application.
+### Login
+![Employee360 Login](Login.png)
 
 ### Dashboard
 
-The Dashboard provides an overview of employees, departments, and tasks.
+#### Dashboard 2.1
+![Employee360 Dashboard 2.1](Dashboard%202.1.png)
+
+#### Dashboard 2.2
+![Employee360 Dashboard 2.2](Dashboard%202.2.png)
+
+#### Dashboard 2.3
+![Employee360 Dashboard 2.3](Dashboard%202.3.png)
+
+#### Dashboard 2.4
+![Employee360 Dashboard 2.4](Dashboard%202.4.png)
 
 ### Employees
-
-The Employees module allows users to view, search, add, edit, and delete employee records.
+![Employee360 Employees](Employees.png)
 
 ### Add Employee
-
-The Add Employee page allows users to enter and save employee information.
+![Employee360 Add Employee](Add%20Employees.png)
 
 ### Departments
-
-The Departments module allows users to manage company departments.
+![Employee360 Departments](Departments.png)
 
 ### Tasks
+![Employee360 Tasks](Tasks.png)
 
-The Tasks module allows users to create, assign, edit, and manage employee tasks.
+### Add Task
+
+#### Add Task 3.1
+![Employee360 Add Task 3.1](Add%20Task%203.1.png)
+
+#### Add Task 3.2
+![Employee360 Add Task 3.2](Add%20Task%203.2.png)
 
 ## Installation & Setup
 
