@@ -300,12 +300,12 @@ Employee360/
 ![Employee360 Tasks](Tasks.png)
 
 ### Add Task
-
 #### Add Task 3.1
-![Employee360 Add Task 3.1](Add%20Task%203.1.png)
+![Employee360 Add Task 3.1](Add%20New%20Task%203.1.png)
 
 #### Add Task 3.2
-![Employee360 Add Task 3.2](Add%20Task%203.2.png)
+![Employee360 Add Task 3.2](Add%20New%20Task%203.2.png)
+
 
 ## Installation & Setup
 
