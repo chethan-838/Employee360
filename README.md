@@ -291,7 +291,7 @@ Employee360/
 ![Employee360 Employees](Employees.png)
 
 ### Add Employee
-![Employee360 Add Employee](Add%20Employees.png)
+![Employee360 Add Employee](Add%20Employee.png)
 
 ### Departments
 ![Employee360 Departments](Departments.png)
