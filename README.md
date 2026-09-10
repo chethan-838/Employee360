@@ -299,7 +299,7 @@ The Tasks module allows users to create, assign, edit, and manage employee tasks
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/chethan-838/Employee360.git
 cd Employee360
 ```
 
