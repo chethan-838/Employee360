@@ -139,8 +139,9 @@ CORS_ALLOWED_ORIGINS = [
 
 CORS_ALLOW_CREDENTIALS = True
 
-CSRF_TRUSTED_ORIGINS = [
+CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://employee360-1.onrender.com",
 ]
 
 LOGIN_REDIRECT_URL = '/dashboard/'
