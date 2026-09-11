@@ -9,7 +9,8 @@ https://docs.djangoproject.com/en/6.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/6.1/ref/settings/
 """
-
+import os
+import dj_database_url
 from pathlib import Path
 
 
@@ -78,14 +79,9 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # https://docs.djangoproject.com/en/6.1/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'employee_management',
-        'USER': 'root',
-        'PASSWORD': 'Chethu@098',
-        'HOST': 'localhost',
-        'PORT': '3306',
-    }
+    'default': dj_database_url.parse(
+        os.environ.get('DATABASE_URL')
+    )
 }
 
 
